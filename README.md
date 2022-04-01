@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jlanelko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jlanelko" height="30" width="40" /></a>
+<a href="https://dev.to/jlanelk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jlanelk" height="30" width="40" /></a>
 <a href="https://twitter.com/jlanelkoca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jlanelkoca" height="30" width="40" /></a>
 <a href="https://instagram.com/elkoca.ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elkoca.ce" height="30" width="40" /></a>
 </p>
@@ -24,6 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlan-elk&show_icons=true&locale=en&layout=compact" alt="jlan-elk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlan-elk&show_icons=true&locale=en" alt="jlan-elk" /></p>
+
 
 <a href="https://app.daily.dev/Jlan_E"><img src="https://api.daily.dev/devcards/0119df692c8a4f4d93c3fce1b5470e21.png?r=9yp" width="400" alt="JlanELKO's Dev Card"/></a>
 
