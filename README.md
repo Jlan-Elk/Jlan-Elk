@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jlanelkoca" target="blank"><img src="https://img.shields.io/twitter/follow/jlanelkoca?logo=twitter&style=for-the-badge" alt="jlanelkoca" /></a> </p>
 
-- 🌱 I’m currently learning **about programming and wep development**
+- 🌱 I’m currently learning **programming and web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlan-elk&show_icons=true&locale=en&layout=compact" alt="jlan-elk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlan-elk&show_icons=true&locale=en" alt="jlan-elk" /></p>
+
 
 
 <a href="https://app.daily.dev/Jlan_E"><img src="https://api.daily.dev/devcards/0119df692c8a4f4d93c3fce1b5470e21.png?r=9yp" width="400" alt="JlanELKO's Dev Card"/></a>
