@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ceylan</h1>
 <h3 align="center">A passionate Software Development Engineer in Test</h3>
 
@@ -26,3 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlan-elk&show_icons=true&locale=en&layout=compact" alt="jlan-elk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlan-elk&show_icons=true&locale=en" alt="jlan-elk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlan-elk&" alt="jlan-elk" /></p>
+
+<a href="https://app.daily.dev/Jlan_E"><img src="https://api.daily.dev/devcards/0119df692c8a4f4d93c3fce1b5470e21.png?r=9yp" width="400" alt="JlanELKO's Dev Card"/></a>
+
+<figure><embed src="https://wakatime.com/share/@Elkoca/a3652df6-94e1-4d4c-8c8f-cd0501d3caf1.svg"></embed></figure>
