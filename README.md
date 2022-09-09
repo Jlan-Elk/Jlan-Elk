@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlan-elk" alt="jlan-elk" /></a> </p>
 
-- 🌱 I’m currently learning **new programming language ad automation tools**
+- 🌱 I’m currently learning **new programming languages ad automation tools.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
